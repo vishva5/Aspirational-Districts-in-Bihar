@@ -1,7 +1,7 @@
 # Aspirational-Districts-in-Bihar
 
 Topic: ASPIRATIONAL DISTRICTS IN BIHAR
-Are Poorer Districts are catching up with Rich Districts?
+: Are Poorer Districts are catching up with Rich Districts?
 
 objective:
 1. How the districts are identified as aspirational districts and what are indicators of “Aspirational District Programme”?
